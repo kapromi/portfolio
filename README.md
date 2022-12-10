@@ -8,8 +8,8 @@ After work, I climb, run, take pictures, play board games and sudoku. I love mou
 
 ## Testing skills:
 :heavy_check_mark: **Writing test cases**
-* [Test cases based on User Stories](https://docs.google.com/spreadsheets/d/13vUjwls6okrYgADehpRCX5g61NkrNmi6/edit?usp=share_link&ouid=107944882906340188087&rtpof=true&sd=true)
-* [Test cases based on own experience of app](https://docs.google.com/spreadsheets/d/141l16PA1Q9eklivBUfYRE3LME7Fc75PE/edit?usp=share_link&ouid=107944882906340188087&rtpof=true&sd=true)
+* [Test cases based on User Stories (Scouts Panel)](https://docs.google.com/spreadsheets/d/13vUjwls6okrYgADehpRCX5g61NkrNmi6/edit?usp=share_link&ouid=107944882906340188087&rtpof=true&sd=true)
+* [Test cases based on own experience of app (Scouts Panel)](https://docs.google.com/spreadsheets/d/141l16PA1Q9eklivBUfYRE3LME7Fc75PE/edit?usp=share_link&ouid=107944882906340188087&rtpof=true&sd=true)
   
 :heavy_check_mark: **Bug reporting**
 * [Scout Panel (web app) bug report](https://docs.google.com/spreadsheets/d/14A49idsNVber9m530dhetZLWymXHfJVW/edit?usp=share_link&ouid=107944882906340188087&rtpof=true&sd=true)
