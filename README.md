@@ -19,7 +19,7 @@ After work, I climb, run, take pictures, play board games and sudoku. I love mou
 * [The Scouts Panel test report](https://drive.google.com/file/d/147_iTIjVWYnesGxa0THdaQsY3FcaTybd/view?usp=share_link)
 
 ## Courses/Webinars/Workshops 
-* Dare IT Challenge „Zostań Testerem Manualnym”
+* [Dare IT Challenge „Zostań Testerem Manualnym”](https://drive.google.com/file/d/1SivA148s2l-qyjL0Pz5bhw7bfRoNlWEF/view?usp=drivesdk)
 * [Scrum w praktyce - poznanie metodyki od podszewki](https://drive.google.com/file/d/14GvfCWIT04txQWIKhIIhlvms199e-oHY/view?usp=share_link) organized by SKNI & Orange 
 * [Analiza biznesowa](https://drive.google.com/file/d/14GbAUtE-ohzitNsU8B_3JR7Kj8UJkTsV/view?usp=share_link) – 3h workshop organized by UX Magazyn
 * Konstruktywna komunikacja i budowanie porozumienia - 2days workshop organized by MindUP
