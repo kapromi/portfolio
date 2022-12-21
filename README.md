@@ -25,6 +25,9 @@ After work, I climb, run, take pictures, play board games and sudoku. I love mou
 * Konstruktywna komunikacja i budowanie porozumienia - 2days workshop organized by MindUP
 * [Advanced Excel Course](https://drive.google.com/file/d/14HGr5E1eUXOe0G4Ne5DQRAUtaZJ7MCv8/view?usp=share_link) organized by Sii Training Practice
 
+
+  * Postman - testowanie REST API - Udemy Online Course (in progress)
+
 ## Tech Stack
 * Jira
 * Confluence
