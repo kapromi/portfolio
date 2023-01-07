@@ -20,13 +20,11 @@ After work, I climb, run, take pictures, play board games and sudoku. I love mou
 
 ## Courses/Webinars/Workshops 
 * [Dare IT Challenge „Zostań Testerem Manualnym”](https://drive.google.com/file/d/1SivA148s2l-qyjL0Pz5bhw7bfRoNlWEF/view?usp=drivesdk)
+* [Postman - testowanie REST API](https://drive.google.com/file/d/14QUCx9Q8vm8wTl6-Cv6k9Ex1_9jAab-u/view?usp=share_link) - Udemy Online Course
 * [Scrum w praktyce - poznanie metodyki od podszewki](https://drive.google.com/file/d/14GvfCWIT04txQWIKhIIhlvms199e-oHY/view?usp=share_link) organized by SKNI & Orange 
 * [Analiza biznesowa](https://drive.google.com/file/d/14GbAUtE-ohzitNsU8B_3JR7Kj8UJkTsV/view?usp=share_link) – 3h workshop organized by UX Magazyn
 * Konstruktywna komunikacja i budowanie porozumienia - 2days workshop organized by MindUP
 * [Advanced Excel Course](https://drive.google.com/file/d/14HGr5E1eUXOe0G4Ne5DQRAUtaZJ7MCv8/view?usp=share_link) organized by Sii Training Practice
-
-
-  * Postman - testowanie REST API - Udemy Online Course (in progress)
 
 ## Tech Stack
 * Jira
