@@ -31,6 +31,7 @@ After work, I climb, run, take pictures, play board games and sudoku. I love mou
 * Confluence
 * Github
 * Chrome Devtools 
+* Postman (basic knowledge)
 * Xampp
 * [SQL (basic knowledge)](https://drive.google.com/file/d/14LwldYMYGCZi3fAO6DWlRfLfmk2OErHr/view?usp=share_link)
 * Slack, MS Teams
