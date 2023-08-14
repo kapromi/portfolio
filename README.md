@@ -1,6 +1,6 @@
 # Manual Tester Portfolio
 ## About me
-My name is **Karolina Promińska** and I have always liked to learn new things. Throughout my professional career I have had the opportunity to learn and work on many systems. Being a power/key user of ERP systems like MS AX and SAP I actively participated in the implementation of new functionalities and took my first steps in testing. Participation in Dare IT QA Challenge confirmed that this is the right direction of development for me, because just I feel the flow with it. Currently I want to extend my testing knowledge and pass ISTQB exam.
+My name is **Karolina Promińska** and I have always liked to learn new things. Throughout my professional career I have had the opportunity to learn and work on many systems. Being a power/key user of ERP systems like MS AX and SAP I actively participated in the implementation of new functionalities and took my first steps in testing. Participation in Dare IT QA Challenge confirmed that this is the right direction of development for me, because just I feel the flow with it. Currently I work as a manual tester and extend my knowledge every day by testing and developing web application for a client from medical industry.
 
 More details about my path career you can find on [**my LinkedIn profile**](https://www.linkedin.com/in/karolina-prominska/).
 
