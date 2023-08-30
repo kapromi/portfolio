@@ -29,6 +29,7 @@ After work, I climb, run, take pictures, play board games and sudoku. I love mou
 ## Tech Stack
 * Jira
 * Confluence
+* Azure DevOps
 * Github
 * Chrome Devtools 
 * Postman (basic knowledge)
