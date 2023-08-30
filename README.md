@@ -1,5 +1,5 @@
-# Manual Tester Portfolio
-## About me
+# Manual Tester Portfolio 
+## About me :woman_technologist:
 My name is **Karolina Promińska** and I have always liked to learn new things. Throughout my professional career I have had the opportunity to learn and work on many systems. Being a power/key user of ERP systems like MS AX and SAP I actively participated in the implementation of new functionalities and took my first steps in testing. Participation in Dare IT QA Challenge confirmed that this is the right direction of development for me, because just I feel the flow with it. Currently I work as a manual tester and extend my knowledge every day by testing and developing web application for a client from medical industry.
 
 More details about my path career you can find on [**my LinkedIn profile**](https://www.linkedin.com/in/karolina-prominska/).
@@ -18,7 +18,7 @@ After work, I climb, run, take pictures, play board games and sudoku. I love mou
 :heavy_check_mark: **Creating test summary report**
 * [The Scouts Panel test report](https://drive.google.com/file/d/147_iTIjVWYnesGxa0THdaQsY3FcaTybd/view?usp=share_link)
 
-## Courses/Webinars/Workshops 
+## Courses/Webinars/Workshops :books:
 * [Dare IT Challenge „Zostań Testerem Manualnym”](https://drive.google.com/file/d/1SivA148s2l-qyjL0Pz5bhw7bfRoNlWEF/view?usp=drivesdk)
 * [Postman - testowanie REST API](https://drive.google.com/file/d/14QUCx9Q8vm8wTl6-Cv6k9Ex1_9jAab-u/view?usp=share_link) - Udemy Online Course
 * [Scrum w praktyce - poznanie metodyki od podszewki](https://drive.google.com/file/d/14GvfCWIT04txQWIKhIIhlvms199e-oHY/view?usp=share_link) organized by SKNI & Orange 
