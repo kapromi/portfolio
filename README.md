@@ -1,6 +1,6 @@
 # Software Tester Portfolio 
 ## About me :woman_technologist:
-My name is **Karolina Promińska** and I have always liked to learn new things. Throughout my professional career I have had the opportunity to learn and work on many systems. Being a power/key user of ERP systems like MS AX and SAP I actively participated in the implementation of new functionalities and took my first steps in testing. Participation in Dare IT QA Challenge confirmed that this is the right direction of development for me, because just I feel the flow with it. I am still learning and improving.
+My name is **Karolina Promińska** and I have always liked to learn new things. Throughout my professional career I have had the opportunity to learn and work on many systems. Being a power/key user of ERP systems like MS AX and SAP I actively participated in the implementation of new functionalities and took my first steps in testing. Participation in Dare IT QA Challenge confirmed that this is the right direction of development for me, because just I feel the flow with it. I am still learning and improving. I am a Mentee in 6th edition of Dare IT mentoring program for women, where I work with my Mentor on my testing skills.
 
 More details about my path career you can find on [**my LinkedIn profile**](https://www.linkedin.com/in/karolina-prominska/).
 
@@ -34,8 +34,7 @@ After work, I climb, run, take pictures, play board games and sudoku. I love mou
 * Github
 * Chrome Devtools 
 * Postman (basic knowledge)
-* Xampp
-* [SQL (basic knowledge)](https://drive.google.com/file/d/14LwldYMYGCZi3fAO6DWlRfLfmk2OErHr/view?usp=share_link)
+* SQL (basic knowledge)
 * Slack, MS Teams
 * SAP
 * Microsoft Dynamics AX
