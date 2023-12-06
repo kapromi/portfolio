@@ -42,9 +42,10 @@ After work, I climb, run, take pictures, dance, play board games and sudoku. I l
 * ServiceDesk Plus
 
 ## Soft skills
+* Knowledge of **ISTQB** issues
+* Experience in working in **Scrum**
 * **Teamwork experience** - ability to establish relationships, reach common solutions, cooperate with various teams/departments
 * High-level **communication skills** - ability to express own opinion and listen to others 
 * Experience in **working under time pressure** - ability to plan and organize own work, prioritize tasks and meet deadlines
 * Being **scrupulous, systematic** and **thorough**
 * Highly developed **analytical skills**
-* Experience in working in **Scrum**
