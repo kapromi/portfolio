@@ -24,7 +24,7 @@ After work, I climb, run, take pictures, dance, play board games and sudoku. I l
 * [The Scouts Panel test report](https://drive.google.com/file/d/147_iTIjVWYnesGxa0THdaQsY3FcaTybd/view?usp=share_link)
 
 ## Courses/Webinars/Workshops :books:
-* ["Szkoła Testowania Backendu"](https://backend.akademiaqa.pl/) Bartosza Kity - online course (2023, in progress)
+* [Szkoła Testowania Backendu](https://backend.akademiaqa.pl/) Bartosza Kity - online course (2023, in progress)
 * [Postman - testowanie REST API](https://drive.google.com/file/d/14QUCx9Q8vm8wTl6-Cv6k9Ex1_9jAab-u/view?usp=share_link) - Udemy Online Course (2023)
 * [Dare IT Challenge „Zostań Testerem Manualnym”](https://drive.google.com/file/d/1SivA148s2l-qyjL0Pz5bhw7bfRoNlWEF/view?usp=drivesdk) (2022)
 * [Analiza biznesowa](https://drive.google.com/file/d/14GbAUtE-ohzitNsU8B_3JR7Kj8UJkTsV/view?usp=share_link) – 3h workshop organized by UX Magazyn (2020)
