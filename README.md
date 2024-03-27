@@ -1,8 +1,8 @@
 # Software Tester Portfolio 
 ## About me :woman_technologist:
-My name is **Karolina Promińska** and I have always liked to learn new things. Throughout my professional career I have had the opportunity to learn and work on many systems. Being a power/key user of ERP systems like MS AX and SAP I actively participated in the implementation of new functionalities and took my first steps in testing (UAT). 
+My name is **Karolina** and I have always been eager to learn new things. Throughout my professional career I have had the opportunity to learn and work on many systems. Being a power/key user of ERP systems like MS AX and SAP I actively participated in the implementation of new functionalities and took my first steps in testing (UAT). 
 
-Participation in Dare IT QA Challenge confirmed that this is the right direction of development for me, because just I feel the flow with it. Over the last year I have been constantly learing by myself and on additional courses. I also work part-time as a software tester and extend my knowledge by testing and developing web application and embedded device sofware for a Client from medical industry. Since November 2023 I have been improving my testing skills with experienced Mentor in Dare IT Mentoring Program.
+Participation in Dare IT QA Challenge confirmed that this is the right direction of development for me, because just I feel the flow with it. I have been working as a Software Tester for over a year and I have been constantly learning by myself and on additional courses. I have successfully completed the Dare IT Mentoring Program where I extended my knowledge with experienced Mentor.
 
 More details about my path career you can find on [**my LinkedIn profile**](https://www.linkedin.com/in/karolina-prominska/).
 
@@ -25,6 +25,7 @@ After work, I climb, run, take pictures, dance, play board games and sudoku. I l
 
 ## Courses/Webinars/Workshops :books:
 * [Szkoła Testowania Backendu](https://backend.akademiaqa.pl/) Bartosza Kity - online course (2024, in progress)
+* [Mentee path: QA & Manual Tester](https://drive.google.com/file/d/1VipAxL0E3FbUuZ9cFUBXiNfk1Zmyvjbj/view?usp=sharing) - Dare IT Mentoring Program (2024)
 * [Postman - testowanie REST API](https://drive.google.com/file/d/14QUCx9Q8vm8wTl6-Cv6k9Ex1_9jAab-u/view?usp=share_link) - Udemy Online Course (2023)
 * [Dare IT Challenge „Zostań Testerem Manualnym”](https://drive.google.com/file/d/1SivA148s2l-qyjL0Pz5bhw7bfRoNlWEF/view?usp=drivesdk) (2022)
 * [Analiza biznesowa](https://drive.google.com/file/d/14GbAUtE-ohzitNsU8B_3JR7Kj8UJkTsV/view?usp=share_link) – 3h workshop organized by UX Magazyn (2020)
@@ -33,15 +34,13 @@ After work, I climb, run, take pictures, dance, play board games and sudoku. I l
 * [Advanced Excel Course](https://drive.google.com/file/d/14HGr5E1eUXOe0G4Ne5DQRAUtaZJ7MCv8/view?usp=share_link) organized by Sii Training Practice (2017)
 
 ## Tech Skills
-* Knowledge from the ISTQB Foundation Level Certificate
+* REST API, Swagger, Postman (basic knowledge)
+* SQL (basic knowledge)
+* Devtools
 * Exploratory testing
 * Writing test cases
 * Bug reporting: Jira, Azure DevOps
-* Devtools
-* REST API testing
-* Postman (basic knowledge)
-* SQL (basic knowledge)
-* Git, Github
+* Knowledge from the ISTQB Foundation Level Certificate
 * Confluence
 * ERP: SAP, Microsoft Dynamics AX
 * ServiceDesk Plus 
