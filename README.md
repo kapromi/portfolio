@@ -39,7 +39,7 @@ After work, I climb, run, take pictures, dance, play board games and sudoku. I l
 * Devtools
 * Exploratory testing
 * Writing test cases
-* Bug reporting: Jira, Azure DevOps
+* Bug reporting: Jira, Azure DevOps, GitLab
 * Knowledge from the ISTQB Foundation Level Certificate
 * Confluence
 * ERP: SAP, Microsoft Dynamics AX
