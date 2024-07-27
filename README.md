@@ -6,7 +6,7 @@ Participation in Dare IT QA Challenge confirmed that this is the right direction
 
 More details about my path career you can find on [**my LinkedIn profile**](https://www.linkedin.com/in/karolina-prominska/).
 
-After work, I climb, run, take pictures, dance, play board games and sudoku. I love mountains :heart: [**My passion in 1 minute.**](https://drive.google.com/file/d/14Qt4NMJQAOEtbhlqlQqwHNQEt2YwHD6w/view?usp=sharing)
+After work, I climb, run, take pictures, dance with combat fans, play board games and sudoku. I love mountains :heart: [**My passion in 1 minute.**](https://drive.google.com/file/d/14Qt4NMJQAOEtbhlqlQqwHNQEt2YwHD6w/view?usp=sharing)
 
 
 ## Testing skills:
