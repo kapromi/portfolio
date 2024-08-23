@@ -27,6 +27,7 @@ After work, I climb, run, take pictures, dance with combat fans, play board game
 * [Szkoła Testowania Backendu](https://backend.akademiaqa.pl/) Bartosza Kity - online course (2024, in progress)
 * [Mentee path: QA & Manual Tester](https://drive.google.com/file/d/1VipAxL0E3FbUuZ9cFUBXiNfk1Zmyvjbj/view?usp=sharing) - Dare IT Mentoring Program (2024)
 * [Postman - testowanie REST API](https://drive.google.com/file/d/14QUCx9Q8vm8wTl6-Cv6k9Ex1_9jAab-u/view?usp=share_link) - Udemy Online Course (2023)
+* JavaScript basics - YouTube (2023)
 * [Dare IT Challenge „Zostań Testerem Manualnym”](https://drive.google.com/file/d/1SivA148s2l-qyjL0Pz5bhw7bfRoNlWEF/view?usp=drivesdk) (2022)
 * [Analiza biznesowa](https://drive.google.com/file/d/14GbAUtE-ohzitNsU8B_3JR7Kj8UJkTsV/view?usp=share_link) – 3h workshop organized by UX Magazyn (2020)
 * [Scrum w praktyce - poznanie metodyki od podszewki](https://drive.google.com/file/d/14GvfCWIT04txQWIKhIIhlvms199e-oHY/view?usp=share_link) organized by SKNI & Orange (2020)
@@ -40,6 +41,8 @@ After work, I climb, run, take pictures, dance with combat fans, play board game
 * Exploratory testing
 * Writing test cases
 * Bug reporting: Jira, Azure DevOps, GitLab
+* Command line/warp
+* Visual Studio Code
 * Knowledge from the ISTQB Foundation Level Certificate
 * Confluence
 * ERP: SAP, Microsoft Dynamics AX
